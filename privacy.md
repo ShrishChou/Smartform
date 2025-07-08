@@ -1,6 +1,3 @@
-# Smartform
-Workout analytics app
-
 # Privacy Policy
 Last Updated: July 6, 2025
 SmartForm (“we,” “us,” and “our”) provides you with access to AI-powered workout technique analysis. This Privacy Policy is designed to help you understand how we collect, use, and share your personal information and to help you understand and exercise your privacy rights. SmartForm is the controller for the personal information we process, unless otherwise stated. For information on how to contact us, please refer to Section 13 below.
